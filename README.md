@@ -157,3 +157,7 @@ disponible; la cara tiene que costar un acto deliberado.
 
 Python · FastAPI · SQL Server · LLMs (Gemini, Anthropic) · LlamaIndex · Qdrant ·
 `pytest` (el módulo de métricas es puro: sin base de datos, sin IO y sin tokens, testeado end-to-end)
+
+---
+
+© 2026 Ignacio Otranto · Publicado bajo [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.es): se puede compartir y adaptar citando al autor.
